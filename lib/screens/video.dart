@@ -1,5 +1,5 @@
-import 'package:first_app/video_player.dart';
-import 'package:first_app/youtube.dart';
+import 'package:first_app/screens/video_player.dart';
+import 'package:first_app/screens/youtube.dart';
 import 'package:flutter/material.dart';
 
 class CustomCard extends StatelessWidget {

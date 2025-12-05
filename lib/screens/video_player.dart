@@ -97,6 +97,7 @@ class _YoutubeVideoState extends State<YoutubeVideo> {
       flags: const YoutubePlayerFlags(
         autoPlay: false,
         mute: false,
+        
       ),
     );
   }
